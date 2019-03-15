@@ -22,3 +22,5 @@ Cada célula é um PROCESSO no Sistema Operacional, então, isso funciona como u
 - Controle Populacional Relativa ao Consumo de Energia
 - Melhorar o Processo Celular para se Aproximar ao Real. 
 
+## Porque?
+Essa foi a melhor maneira de implementar um software que simune situações de PROCESS OVERFLOW de forma aleatório no nossos servidores, para assim implementarmos medidas de controle. 

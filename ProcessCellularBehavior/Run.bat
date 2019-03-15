@@ -1,0 +1,1 @@
+﻿powershell.exe -File "CellularCore.ps1" -ExeuctioPolicy ByPass -name "%1"
